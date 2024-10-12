@@ -12,7 +12,6 @@
 
 [Data Visualization](#data-visualization)
 
-[Structured Query Language](#structured-querylanguage)
 
 
 ---
