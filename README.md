@@ -12,7 +12,7 @@
 
 [Data Visualization](#data-visualization)
 
-[Structured Query Language](#structured-query-language)
+[Structured Query Language](#structured-querylanguage)
 
 
 ---
